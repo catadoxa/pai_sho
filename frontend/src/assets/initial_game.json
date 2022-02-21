@@ -1,0 +1,2321 @@
+{
+    "board": {
+        "pieces": [
+            {
+                "element": "FIRE",
+                "player_number": 1,
+                "x": -6,
+                "y": -8
+            },
+            {
+                "element": "WATER",
+                "player_number": 1,
+                "x": -4,
+                "y": -8
+            },
+            {
+                "element": "EARTH",
+                "player_number": 1,
+                "x": -3,
+                "y": -7
+            },
+            {
+                "element": "AIR",
+                "player_number": 1,
+                "x": -3,
+                "y": -9
+            },
+            {
+                "element": "FIRE",
+                "player_number": 1,
+                "x": -2,
+                "y": -10
+            },
+            {
+                "element": "EARTH",
+                "player_number": 1,
+                "x": -1,
+                "y": -11
+            },
+            {
+                "element": "LOTUS",
+                "player_number": 1,
+                "x": 0,
+                "y": -12
+            },
+            {
+                "element": "AIR",
+                "player_number": 1,
+                "x": 1,
+                "y": -11
+            },
+            {
+                "element": "WATER",
+                "player_number": 1,
+                "x": 2,
+                "y": -10
+            },
+            {
+                "element": "EARTH",
+                "player_number": 1,
+                "x": 3,
+                "y": -9
+            },
+            {
+                "element": "AIR",
+                "player_number": 1,
+                "x": 3,
+                "y": -7
+            },
+            {
+                "element": "FIRE",
+                "player_number": 1,
+                "x": 4,
+                "y": -8
+            },
+            {
+                "element": "WATER",
+                "player_number": 1,
+                "x": 6,
+                "y": -8
+            },
+            {
+                "element": "AVATAR",
+                "player_number": 1,
+                "x": 0,
+                "y": -8
+            },
+            {
+                "element": "WATER",
+                "player_number": 0,
+                "x": -6,
+                "y": 8
+            },
+            {
+                "element": "FIRE",
+                "player_number": 0,
+                "x": -4,
+                "y": 8
+            },
+            {
+                "element": "AIR",
+                "player_number": 0,
+                "x": -3,
+                "y": 7
+            },
+            {
+                "element": "EARTH",
+                "player_number": 0,
+                "x": -3,
+                "y": 9
+            },
+            {
+                "element": "WATER",
+                "player_number": 0,
+                "x": -2,
+                "y": 10
+            },
+            {
+                "element": "AIR",
+                "player_number": 0,
+                "x": -1,
+                "y": 11
+            },
+            {
+                "element": "LOTUS",
+                "player_number": 0,
+                "x": 0,
+                "y": 12
+            },
+            {
+                "element": "EARTH",
+                "player_number": 0,
+                "x": 1,
+                "y": 11
+            },
+            {
+                "element": "FIRE",
+                "player_number": 0,
+                "x": 2,
+                "y": 10
+            },
+            {
+                "element": "AIR",
+                "player_number": 0,
+                "x": 3,
+                "y": 9
+            },
+            {
+                "element": "EARTH",
+                "player_number": 0,
+                "x": 3,
+                "y": 7
+            },
+            {
+                "element": "WATER",
+                "player_number": 0,
+                "x": 4,
+                "y": 8
+            },
+            {
+                "element": "FIRE",
+                "player_number": 0,
+                "x": 6,
+                "y": 8
+            },
+            {
+                "element": "AVATAR",
+                "player_number": 0,
+                "x": 0,
+                "y": 8
+            }
+        ],
+        "spaces": [
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -12,
+                "y": -2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -12,
+                "y": 0
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -12,
+                "y": 2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -11,
+                "y": -5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -11,
+                "y": -3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -11,
+                "y": -1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -11,
+                "y": 1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -11,
+                "y": 3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -11,
+                "y": 5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -10,
+                "y": -6
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -10,
+                "y": -4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -10,
+                "y": -2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -10,
+                "y": 0
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -10,
+                "y": 2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -10,
+                "y": 4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -10,
+                "y": 6
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -9,
+                "y": -7
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -9,
+                "y": -5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -9,
+                "y": -3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -9,
+                "y": -1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -9,
+                "y": 1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -9,
+                "y": 3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -9,
+                "y": 5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -9,
+                "y": 7
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -8,
+                "y": -8
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -8,
+                "y": -6
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -8,
+                "y": -4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -8,
+                "y": -2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -8,
+                "y": 0
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -8,
+                "y": 2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -8,
+                "y": 4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -8,
+                "y": 6
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -8,
+                "y": 8
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -7,
+                "y": -9
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -7,
+                "y": -7
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -7,
+                "y": -5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -7,
+                "y": -3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -7,
+                "y": -1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -7,
+                "y": 1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -7,
+                "y": 3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -7,
+                "y": 5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -7,
+                "y": 7
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -7,
+                "y": 9
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -6,
+                "y": -10
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "FIRE",
+                    "player_number": 1,
+                    "x": -6,
+                    "y": -8
+                },
+                "selectable": true,
+                "selected": false,
+                "x": -6,
+                "y": -8
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -6,
+                "y": -6
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -6,
+                "y": -4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -6,
+                "y": -2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -6,
+                "y": 0
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -6,
+                "y": 2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -6,
+                "y": 4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -6,
+                "y": 6
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "WATER",
+                    "player_number": 0,
+                    "x": -6,
+                    "y": 8
+                },
+                "selectable": false,
+                "selected": false,
+                "x": -6,
+                "y": 8
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -6,
+                "y": 10
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -5,
+                "y": -11
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -5,
+                "y": -9
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -5,
+                "y": -7
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -5,
+                "y": -5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -5,
+                "y": -3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -5,
+                "y": -1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -5,
+                "y": 1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -5,
+                "y": 3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -5,
+                "y": 5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -5,
+                "y": 7
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -5,
+                "y": 9
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -5,
+                "y": 11
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -4,
+                "y": -10
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "WATER",
+                    "player_number": 1,
+                    "x": -4,
+                    "y": -8
+                },
+                "selectable": true,
+                "selected": false,
+                "x": -4,
+                "y": -8
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -4,
+                "y": -6
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -4,
+                "y": -4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -4,
+                "y": -2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -4,
+                "y": 0
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -4,
+                "y": 2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -4,
+                "y": 4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -4,
+                "y": 6
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "FIRE",
+                    "player_number": 0,
+                    "x": -4,
+                    "y": 8
+                },
+                "selectable": false,
+                "selected": false,
+                "x": -4,
+                "y": 8
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -4,
+                "y": 10
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -3,
+                "y": -11
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "AIR",
+                    "player_number": 1,
+                    "x": -3,
+                    "y": -9
+                },
+                "selectable": true,
+                "selected": false,
+                "x": -3,
+                "y": -9
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "EARTH",
+                    "player_number": 1,
+                    "x": -3,
+                    "y": -7
+                },
+                "selectable": true,
+                "selected": false,
+                "x": -3,
+                "y": -7
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -3,
+                "y": -5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -3,
+                "y": -3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -3,
+                "y": -1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -3,
+                "y": 1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -3,
+                "y": 3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -3,
+                "y": 5
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "AIR",
+                    "player_number": 0,
+                    "x": -3,
+                    "y": 7
+                },
+                "selectable": false,
+                "selected": false,
+                "x": -3,
+                "y": 7
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "EARTH",
+                    "player_number": 0,
+                    "x": -3,
+                    "y": 9
+                },
+                "selectable": false,
+                "selected": false,
+                "x": -3,
+                "y": 9
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -3,
+                "y": 11
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -2,
+                "y": -12
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "FIRE",
+                    "player_number": 1,
+                    "x": -2,
+                    "y": -10
+                },
+                "selectable": true,
+                "selected": false,
+                "x": -2,
+                "y": -10
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -2,
+                "y": -8
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -2,
+                "y": -6
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -2,
+                "y": -4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -2,
+                "y": -2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -2,
+                "y": 0
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -2,
+                "y": 2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -2,
+                "y": 4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -2,
+                "y": 6
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -2,
+                "y": 8
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "WATER",
+                    "player_number": 0,
+                    "x": -2,
+                    "y": 10
+                },
+                "selectable": false,
+                "selected": false,
+                "x": -2,
+                "y": 10
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -2,
+                "y": 12
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "EARTH",
+                    "player_number": 1,
+                    "x": -1,
+                    "y": -11
+                },
+                "selectable": true,
+                "selected": false,
+                "x": -1,
+                "y": -11
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -1,
+                "y": -9
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -1,
+                "y": -7
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -1,
+                "y": -5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -1,
+                "y": -3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -1,
+                "y": -1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -1,
+                "y": 1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -1,
+                "y": 3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -1,
+                "y": 5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -1,
+                "y": 7
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": -1,
+                "y": 9
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "AIR",
+                    "player_number": 0,
+                    "x": -1,
+                    "y": 11
+                },
+                "selectable": false,
+                "selected": false,
+                "x": -1,
+                "y": 11
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "LOTUS",
+                    "player_number": 1,
+                    "x": 0,
+                    "y": -12
+                },
+                "selectable": true,
+                "selected": false,
+                "x": 0,
+                "y": -12
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 0,
+                "y": -10
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "AVATAR",
+                    "player_number": 1,
+                    "x": 0,
+                    "y": -8
+                },
+                "selectable": true,
+                "selected": false,
+                "x": 0,
+                "y": -8
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 0,
+                "y": -6
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 0,
+                "y": -4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 0,
+                "y": -2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 0,
+                "y": 0
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 0,
+                "y": 2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 0,
+                "y": 4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 0,
+                "y": 6
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "AVATAR",
+                    "player_number": 0,
+                    "x": 0,
+                    "y": 8
+                },
+                "selectable": false,
+                "selected": false,
+                "x": 0,
+                "y": 8
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 0,
+                "y": 10
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "LOTUS",
+                    "player_number": 0,
+                    "x": 0,
+                    "y": 12
+                },
+                "selectable": false,
+                "selected": false,
+                "x": 0,
+                "y": 12
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "AIR",
+                    "player_number": 1,
+                    "x": 1,
+                    "y": -11
+                },
+                "selectable": true,
+                "selected": false,
+                "x": 1,
+                "y": -11
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 1,
+                "y": -9
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 1,
+                "y": -7
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 1,
+                "y": -5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 1,
+                "y": -3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 1,
+                "y": -1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 1,
+                "y": 1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 1,
+                "y": 3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 1,
+                "y": 5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 1,
+                "y": 7
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 1,
+                "y": 9
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "EARTH",
+                    "player_number": 0,
+                    "x": 1,
+                    "y": 11
+                },
+                "selectable": false,
+                "selected": false,
+                "x": 1,
+                "y": 11
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 2,
+                "y": -12
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "WATER",
+                    "player_number": 1,
+                    "x": 2,
+                    "y": -10
+                },
+                "selectable": true,
+                "selected": false,
+                "x": 2,
+                "y": -10
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 2,
+                "y": -8
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 2,
+                "y": -6
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 2,
+                "y": -4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 2,
+                "y": -2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 2,
+                "y": 0
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 2,
+                "y": 2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 2,
+                "y": 4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 2,
+                "y": 6
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 2,
+                "y": 8
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "FIRE",
+                    "player_number": 0,
+                    "x": 2,
+                    "y": 10
+                },
+                "selectable": false,
+                "selected": false,
+                "x": 2,
+                "y": 10
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 2,
+                "y": 12
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 3,
+                "y": -11
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "EARTH",
+                    "player_number": 1,
+                    "x": 3,
+                    "y": -9
+                },
+                "selectable": true,
+                "selected": false,
+                "x": 3,
+                "y": -9
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "AIR",
+                    "player_number": 1,
+                    "x": 3,
+                    "y": -7
+                },
+                "selectable": true,
+                "selected": false,
+                "x": 3,
+                "y": -7
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 3,
+                "y": -5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 3,
+                "y": -3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 3,
+                "y": -1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 3,
+                "y": 1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 3,
+                "y": 3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 3,
+                "y": 5
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "EARTH",
+                    "player_number": 0,
+                    "x": 3,
+                    "y": 7
+                },
+                "selectable": false,
+                "selected": false,
+                "x": 3,
+                "y": 7
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "AIR",
+                    "player_number": 0,
+                    "x": 3,
+                    "y": 9
+                },
+                "selectable": false,
+                "selected": false,
+                "x": 3,
+                "y": 9
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 3,
+                "y": 11
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 4,
+                "y": -10
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "FIRE",
+                    "player_number": 1,
+                    "x": 4,
+                    "y": -8
+                },
+                "selectable": true,
+                "selected": false,
+                "x": 4,
+                "y": -8
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 4,
+                "y": -6
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 4,
+                "y": -4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 4,
+                "y": -2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 4,
+                "y": 0
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 4,
+                "y": 2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 4,
+                "y": 4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 4,
+                "y": 6
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "WATER",
+                    "player_number": 0,
+                    "x": 4,
+                    "y": 8
+                },
+                "selectable": false,
+                "selected": false,
+                "x": 4,
+                "y": 8
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 4,
+                "y": 10
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 5,
+                "y": -11
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 5,
+                "y": -9
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 5,
+                "y": -7
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 5,
+                "y": -5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 5,
+                "y": -3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 5,
+                "y": -1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 5,
+                "y": 1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 5,
+                "y": 3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 5,
+                "y": 5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 5,
+                "y": 7
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 5,
+                "y": 9
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 5,
+                "y": 11
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 6,
+                "y": -10
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "WATER",
+                    "player_number": 1,
+                    "x": 6,
+                    "y": -8
+                },
+                "selectable": true,
+                "selected": false,
+                "x": 6,
+                "y": -8
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 6,
+                "y": -6
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 6,
+                "y": -4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 6,
+                "y": -2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 6,
+                "y": 0
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 6,
+                "y": 2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 6,
+                "y": 4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 6,
+                "y": 6
+            },
+            {
+                "has_piece": true,
+                "piece": {
+                    "element": "FIRE",
+                    "player_number": 0,
+                    "x": 6,
+                    "y": 8
+                },
+                "selectable": false,
+                "selected": false,
+                "x": 6,
+                "y": 8
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 6,
+                "y": 10
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 7,
+                "y": -9
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 7,
+                "y": -7
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 7,
+                "y": -5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 7,
+                "y": -3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 7,
+                "y": -1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 7,
+                "y": 1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 7,
+                "y": 3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 7,
+                "y": 5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 7,
+                "y": 7
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 7,
+                "y": 9
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 8,
+                "y": -8
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 8,
+                "y": -6
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 8,
+                "y": -4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 8,
+                "y": -2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 8,
+                "y": 0
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 8,
+                "y": 2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 8,
+                "y": 4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 8,
+                "y": 6
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 8,
+                "y": 8
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 9,
+                "y": -7
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 9,
+                "y": -5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 9,
+                "y": -3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 9,
+                "y": -1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 9,
+                "y": 1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 9,
+                "y": 3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 9,
+                "y": 5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 9,
+                "y": 7
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 10,
+                "y": -6
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 10,
+                "y": -4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 10,
+                "y": -2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 10,
+                "y": 0
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 10,
+                "y": 2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 10,
+                "y": 4
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 10,
+                "y": 6
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 11,
+                "y": -5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 11,
+                "y": -3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 11,
+                "y": -1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 11,
+                "y": 1
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 11,
+                "y": 3
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 11,
+                "y": 5
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 12,
+                "y": -2
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 12,
+                "y": 0
+            },
+            {
+                "has_piece": false,
+                "piece": null,
+                "selectable": false,
+                "selected": false,
+                "x": 12,
+                "y": 2
+            }
+        ]
+    },
+    "current_move": null,
+    "game_id": "e2672b75-d97c-4d02-a612-33c1a5ea3e65",
+    "game_name": null,
+    "move_matrix": [
+        {
+            "x": 0,
+            "y": 2
+        },
+        {
+            "x": 0,
+            "y": -2
+        },
+        {
+            "x": 2,
+            "y": 0
+        },
+        {
+            "x": -2,
+            "y": 0
+        },
+        {
+            "x": 1,
+            "y": 1
+        },
+        {
+            "x": 1,
+            "y": -1
+        },
+        {
+            "x": -1,
+            "y": -1
+        },
+        {
+            "x": -1,
+            "y": 1
+        }
+    ],
+    "moves": [],
+    "player_moving": 1,
+    "players": {
+        "0": {
+            "name": "Computer",
+            "type": 0
+        },
+        "1": {
+            "name": "Human",
+            "type": 1
+        }
+    },
+    "take_matrix": {
+        "AIR": [
+            "WATER",
+            "AVATAR"
+        ],
+        "AVATAR": [
+            "AIR",
+            "WATER",
+            "EARTH",
+            "FIRE",
+            "AVATAR"
+        ],
+        "EARTH": [
+            "FIRE",
+            "AVATAR"
+        ],
+        "FIRE": [
+            "AIR",
+            "AVATAR"
+        ],
+        "LOTUS": [],
+        "WATER": [
+            "EARTH",
+            "AVATAR"
+        ]
+    },
+    "turn_number": 0,
+    "winner": null
+}
